@@ -1,0 +1,10 @@
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\bin\Release\MeuOS browser.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\bin\Release\MeuOS browser.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\bin\Release\MeuOS browser.xml
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS_browser.AboutBox1.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS_browser.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS_browser.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS browser.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS browser.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS browser.xml
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\MeuOS browser\MeuOS browser\obj\Release\MeuOS browser.pdb
